@@ -22,4 +22,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/maniks-encryptor.git
 cd maniks-encryptor
-![image](https://github.com/user-attachments/assets/f742414f-faaa-4df5-9a3c-065252fede06)
+
